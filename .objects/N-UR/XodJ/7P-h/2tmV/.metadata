@@ -1,0 +1,14 @@
+﻿{
+  "Id": "2tmV-a7u-ECB-YU63gELHA",
+  "Reference": "osR_WnNoIkSJQTnhEBArPg/2tmV-a7u-ECB-YU63gELHA",
+  "ParentRef": "osR_WnNoIkSJQTnhEBArPg/7P-h3XtomU-18d5NXLA7eg",
+  "Name": "正方形/長方形",
+  "Type": "Element",
+  "TaxonomyType": "None",
+  "Created": "2022-09-21T08:21:44.7026149Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.4.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-09-21T08:21:44.7026149Z"
+}

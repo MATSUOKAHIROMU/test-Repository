@@ -1,0 +1,13 @@
+﻿{
+  "Id": "7P-h3XtomU-18d5NXLA7eg",
+  "Reference": "osR_WnNoIkSJQTnhEBArPg/7P-h3XtomU-18d5NXLA7eg",
+  "ParentRef": "osR_WnNoIkSJQTnhEBArPg/XodJqMqix0ScR-R8KG7bLA",
+  "Name": "1_様式1 決裁起案書（経費、その他用）_MIRA2022.xlsx - Excel",
+  "Type": "Screen",
+  "Created": "2022-09-07T07:17:18.2077358Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.4.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-09-07T07:17:18.2077358Z"
+}

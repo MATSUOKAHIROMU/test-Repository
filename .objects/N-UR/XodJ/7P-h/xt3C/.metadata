@@ -1,0 +1,14 @@
+﻿{
+  "Id": "xt3C5_mM4Ua2-shtxbAMQA",
+  "Reference": "osR_WnNoIkSJQTnhEBArPg/xt3C5_mM4Ua2-shtxbAMQA",
+  "ParentRef": "osR_WnNoIkSJQTnhEBArPg/7P-h3XtomU-18d5NXLA7eg",
+  "Name": "予算計上済（計上予算内）",
+  "Type": "Element",
+  "TaxonomyType": "None",
+  "Created": "2022-09-07T07:17:18.3407574Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.4.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-09-07T07:17:18.3407574Z"
+}

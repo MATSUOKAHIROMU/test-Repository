@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="mb2LhYQv5EaM_Lf4WB3rtQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="637, 961, 63, 47" FriendlyName="'正方形/長方形'" FullSelectorArgument="&lt;uia idx='12' name='正方形/長方形' role='図形' /&gt;" FuzzySelectorArgument="&lt;uia automationid='' name='正方形/長方形' role='図形' check:fulltext='正方形/長方形' /&gt;" Guid="9a44e48e-e0b5-4386-96d4-5268a350c236" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAEMAAAAzCAYAAADM6LWyAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAHYcAAB2HAY/l8WUAAADiSURBVGhD7dTbCYMwGEDhrNI1HKCjuEAXcRqXyTCpaJQDbVEj6cWeD/6HQC5wHhLSSVxu12VKGQOMAcYAY4AxwBhgDDAGGAOMAcYAY8DuGCGEt8xexoCPxqjFGGAMMAYYA4wBxoD6MfrU5jceJu/YbD5YS+n922O8ZoxB7NrUNK0xRrFPXTO8m5ebnTLGKBqDjAHGgD+KEadPMt//dPLOzeaDtZTevx5jnTHAGGAMMAYYA4wBxTFqz17GgI/E+FbGAGOAMeBIjNg101+V1z/vSIyZMcAYYAwwBhgDjAHGWKR0B/8EeVY4J5sBAAAAAElFTkSuQmCC" ScopeSelectorArgument="&lt;wnd app='excel.exe' cls='XLMAIN' title='1_様式1 決裁起案書（経費、その他用）_MIRA2022.xlsx - Excel' /&gt;" SearchSteps="Selector, FuzzySelector, Image" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="dcd47799416bcc99254823b8e1e16052.png" xmlns="">0YWlQKkppUUiIX3PKii9I4A</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

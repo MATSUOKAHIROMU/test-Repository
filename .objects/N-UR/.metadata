@@ -1,0 +1,12 @@
+﻿{
+  "Id": "N-URSTY_NEavZJQRTICBNw",
+  "Reference": "osR_WnNoIkSJQTnhEBArPg/N-URSTY_NEavZJQRTICBNw",
+  "Name": "1_様式1 決裁起案書（経費、その他用）_MIRA2022.xlsx - Excel",
+  "Type": "App",
+  "Created": "2022-09-07T07:17:18.1497808Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.4.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-09-07T07:17:18.1497808Z"
+}

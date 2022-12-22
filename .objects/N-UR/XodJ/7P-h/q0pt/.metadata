@@ -1,0 +1,14 @@
+﻿{
+  "Id": "q0pti1oFy0COlWHbA1hz2Q",
+  "Reference": "osR_WnNoIkSJQTnhEBArPg/q0pti1oFy0COlWHbA1hz2Q",
+  "ParentRef": "osR_WnNoIkSJQTnhEBArPg/7P-h3XtomU-18d5NXLA7eg",
+  "Name": "予算計上済（金額超過）",
+  "Type": "Element",
+  "TaxonomyType": "None",
+  "Created": "2022-09-21T08:30:11.6623503Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=22.4.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=22.4.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-09-21T08:30:11.6623503Z"
+}
